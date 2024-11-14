@@ -25,5 +25,5 @@ The project utilizes multiple models to approach the classification tasks:
 - RNN with CNN: Combining sequential and pattern recognition, this model attained the highest ROC-AUC score of 97%, effectively ranking the correct class with high confidence.
 - Transformers: Achieved the highest True Negative Rate (TNR) of 99.9% for the binary classification task, although it showed lower performance on the multi-class classification. This suggests a need for further tuning to handle multi-class complexity effectively within limited resources.
 
-# Reprt 
+# Report 
 For a detailed report, see this [document](https://docs.google.com/document/d/1KMnWt9wKVOk078Qmj2BtH0CNdobcQplY/edit?usp=sharing&ouid=110791519566382968918&rtpof=true&sd=true).
